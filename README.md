@@ -1,4 +1,3 @@
-ClimbTrainLog
+C-T-L
 ========
 
-An android app to assist in recording and analysing climbing training sessions
